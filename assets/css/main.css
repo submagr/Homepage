@@ -1981,7 +1981,7 @@
 		width: 375px;
 		height: 100%;
 		color: #fff;
-		background: #222629 url("images/overlay.png");
+		background: #000000 url("images/overlay.png");
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
 		text-align: right;
 	}
@@ -2162,7 +2162,7 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/banner.png");
 			}
 
 			#main > section.two {
